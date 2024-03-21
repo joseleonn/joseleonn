@@ -21,7 +21,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td colspan="2">
 <h3 align="center">Bolsa de Trabajo UTN</h3>
 <div align="center">
 <p>
@@ -34,9 +34,9 @@
 </p>
 </div>
                                                                                       
-</td>       
+</td >       
 
-<td >
+<td colspan="2">
                <br>
 <h3 align="center">Wisdom Pet Medicine (Microservicios)</h3>
 <div align="center">                                       
@@ -54,7 +54,7 @@
 </td>  
 
 
-<td >
+<td colspan="2">
                <br>
 <h3 align="center">Estudio de danzas</h3>
 <div align="center">                                       
@@ -73,7 +73,7 @@ Backend para Estudio de Danzas: Una aplicación diseñada para simplificar la ge
 </td> 
 
 
-<td >
+<td colspan="2" >
                <br>
 <h3 align="center">Estudio de danzas</h3>
 <div align="center">                                       
