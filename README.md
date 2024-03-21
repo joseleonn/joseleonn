@@ -15,3 +15,41 @@
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
+
+    ## Proyectos
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Bolsa de Trabajo UTN</h3>
+<div align="center">
+<p>
+<a href="[https://github.com/ArisGuimera/Android-Expert-Intermedio](https://github.com/joseleonn/Bolsa-de-Trabajo-UTN.git)" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>La Bolsa de Trabajo para la Universidad Tecnológica Nacional es una plataforma que conecta empresas con estudiantes/alumnos de la UTN. Las empresas pueden publicar puestos de trabajo y los alumnos pueden postularse cargando sus currículums en formato PDF. Esta plataforma simplifica el proceso de búsqueda de empleo y facilita la conexión entre ambas partes, promoviendo así oportunidades laborales relevantes y adecuadas para los estudiantes.
+<strong>STACK: REACT - .NET - SQLServer </strong>
+</p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+               <br>
+<h3 align="center">Wisdom Pet Medicine (Microservicios)</h3>
+<div align="center">                                       
+<br>
+<p>
+<a href="https://github.com/joseleonn/WisdomPetMedicine-Microservices.git" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>Sistema Wisdom Pet Medicine: Una aplicación altamente escalable y preparada para grandes volúmenes de tráfico, gracias a su arquitectura de microservicios. Implementa principios avanzados de diseño como Event Sourcing, CQRS, arquitectura hexagonal y DDD (Domain-Driven Design). Utiliza CosmosDB y Azure Functions para asegurar la fiabilidad de los datos, garantizando así un funcionamiento robusto y eficiente del sistema.
+<strong>STACK: .NET - SQLServer - Azure </strong>
+
+</p>
+</div>
+</td>  
+</table> 
+</div>
+
