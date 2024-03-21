@@ -36,7 +36,7 @@
                                                                                       
 </td>       
 
-<td width="50%">
+<td >
                <br>
 <h3 align="center">Wisdom Pet Medicine (Microservicios)</h3>
 <div align="center">                                       
@@ -54,7 +54,7 @@
 </td>  
 
 
-<td width="50%">
+<td >
                <br>
 <h3 align="center">Estudio de danzas</h3>
 <div align="center">                                       
@@ -73,7 +73,7 @@ Backend para Estudio de Danzas: Una aplicación diseñada para simplificar la ge
 </td> 
 
 
-<td width="50%">
+<td >
                <br>
 <h3 align="center">Estudio de danzas</h3>
 <div align="center">                                       
