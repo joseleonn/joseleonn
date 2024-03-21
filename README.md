@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 🚀 Hola, soy José Leon, un técnico en programación y desarrollador fullstack. Mi experiencia abarca tecnologias tanto del frontend como del backend e incluso despliegue y contenerizacion de aplicaciones. Mis habilidades me permiten crear soluciones escalables y mantenibles en el tiempo, utilizando arquitecturas limpias de software y las mejores practicas para asi llegar al objetivo final y cumplir las necesidades de los clientes de la mejor manera.
 
 
