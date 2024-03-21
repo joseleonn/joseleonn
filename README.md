@@ -91,5 +91,5 @@ E-commerce en React con Experiencia de Usuario/Interfaz de Usuario (UX/UI) desta
 </div>
 </td> 
 </table> 
-</div>
+
 
