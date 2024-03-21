@@ -45,12 +45,50 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Sistema Wisdom Pet Medicine: Una aplicación altamente escalable y preparada para grandes volúmenes de tráfico, gracias a su arquitectura de microservicios. Implementa principios avanzados de diseño como Event Sourcing, CQRS, arquitectura hexagonal y DDD (Domain-Driven Design). Utiliza CosmosDB y Azure Functions para asegurar la fiabilidad de los datos, garantizando así un funcionamiento robusto y eficiente del sistema.
+</p>Backend para veterinaria: Una aplicación altamente escalable y preparada para grandes volúmenes de tráfico, gracias a su arquitectura de microservicios. Implementa principios avanzados de diseño como Event Sourcing, CQRS, arquitectura hexagonal y DDD (Domain-Driven Design). Utiliza CosmosDB y Azure Functions para asegurar la fiabilidad de los datos, garantizando así un funcionamiento robusto y eficiente del sistema.
 <strong>STACK: .NET - SQLServer - Azure </strong>
 
 </p>
 </div>
 </td>  
+
+
+<td width="50%">
+               <br>
+<h3 align="center">Estudio de danzas</h3>
+<div align="center">                                       
+<br>
+<p>
+<a href="https://github.com/joseleonn/Backend_EstudioDeDanzas.git" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+Backend para Estudio de Danzas: Una aplicación diseñada para simplificar la gestión de inscripciones de alumnas y la reserva de butacas para el espectáculo de fin de año de un estudio de danzas. Esta aplicación proporciona una plataforma eficiente y fácil de usar para administrar los datos de las alumnas, así como para organizar y reservar asientos para el espectáculo, permitiendo una experiencia fluida tanto para el estudio como para sus estudiantes y espectadores.
+</p>
+<strong>STACK: .NET - SQLServer - Azure </strong>
+
+</p>
+</div>
+</td> 
+
+
+<td width="50%">
+               <br>
+<h3 align="center">Estudio de danzas</h3>
+<div align="center">                                       
+<br>
+<p>
+<a href="https://github.com/joseleonn/Ecommerce_Firebase.git" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+E-commerce en React con Experiencia de Usuario/Interfaz de Usuario (UX/UI) destacada y integración de pagos mediante Mercado Pago. Proporciona una experiencia de compra intuitiva y fluida, combinada con un diseño atractivo y funcional. La integración con Mercado Pago garantiza un proceso de pago seguro y confiable para los usuarios.
+</p>
+<strong>STACK: React - Firebase </strong>
+
+</p>
+</div>
+</td> 
 </table> 
 </div>
 
