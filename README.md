@@ -52,9 +52,10 @@
 </p>
 </div>
 </td>  
+</table> 
 
-
-<td width="50%">
+<table>
+  <td width="50%">
                <br>
 <h3 align="center">Estudio de danzas</h3>
 <div align="center">                                       
@@ -90,6 +91,6 @@ E-commerce en React con Experiencia de Usuario/Interfaz de Usuario (UX/UI) desta
 </p>
 </div>
 </td> 
-</table> 
+</table>
 
 
